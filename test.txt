@@ -3,11 +3,6 @@ this is my sample test file
 this is my sample test file
 this is my sample test file
 this is my sample test file
-this is my sample test file
-this is my sample test file
-this is my sample test file
-this is my sample test file
-this is my sample test file
 
 this is my sample test file
 this is my sample test file
@@ -17,11 +12,5 @@ this is my sample test file
 this is my sample test file
 this is my sample test file
 this is my sample test file
-this is my sample test file
-this is my sample test file
-this is my sample test file
-this is my sample test file
-this is my sample test file
-this is my sample test file
-Bharath Boddulaaaaaaaaaaaaaaaaaaa bharath
+Bharath bharath
 
